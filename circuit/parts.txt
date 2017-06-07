@@ -1,0 +1,39 @@
+Partlist
+
+Exported from epiano.sch at 8/28/2015 8:06 PM
+
+EAGLE Version 7.3.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value                Device               Package     Library  Sheet
+
+6N138    6N138                6N138                SMD-8       epiano   1
+4067     4067D                4067D                SO24W       40xx     1
+C1       22pF                 C-EUC0805            C0805       epiano   1
+C2       22pF                 C-EUC0805            C0805       epiano   1
+C3       100nF                C-EUC0805            C0805       epiano   1
+C4       47uF                 CPOL-EUD             PANASONIC_D rcl      1
+C5       47uF                 CPOL-EUD             PANASONIC_D rcl      1
+C6       100nF                C-EUC0805            C0805       epiano   1
+C7       100nF                C-EUC0805            C0805       epiano   1
+D1       1N4001               DIODE-MELF-MLL41     MELF-MLL41  diode    1
+D2       1N4001               DIODE-MELF-MLL41     MELF-MLL41  diode    1
+D3       1N4148               DIODE-MINIMELF       MINIMELF    diode    1
+DC       DCJ0202              DCJ0202              DCJ0202     epiano   1
+ISP      ISP                  PINHD-2X5_2.54-SMD   2X05SMD     epiano   1
+LEFT     KBD_LEFT             PINHD-2X10_2.54-SMD  2X10SMD     epiano   1
+LM1117   MC33269ST-3.3T3      MC33269ST-3.3T3      SOT223      epiano   1
+MEGA16   MEGA16-A             MEGA16-A             TQFP44      atmel    1
+MIDI     MAB5SH               MAB5SH               MAB5SH      epiano   1
+MIDIMATE                      USBMIDI_2.54-SMD     USBMIDI     epiano   1
+PEDAL    PEDAL                PINHD-2X4_2.54-SMD   2X04SMD     epiano   1
+Q1       16MHz                CRYSTALSM49          SM49        crystal  1
+R1       10k?                 R-EU_R0805           R0805       epiano   1
+R2       220?                 R-EU_R0805           R0805       epiano   1
+R3       220?                 R-EU_R0805           R0805       epiano   1
+R4       220?                 R-EU_R0805           R0805       epiano   1
+R5       1k?                  R-EU_R0805           R0805       epiano   1
+R6       0?                   R-EU_R1206           R1206       epiano   1
+RIGHT    KBD_RIGHT            PINHD-2X10_2.54-SMD  2X10SMD     epiano   1
+USB      MINI-USB-UX60-MB-5ST MINI-USB-UX60-MB-5ST UX60-MB-5ST epiano   1
