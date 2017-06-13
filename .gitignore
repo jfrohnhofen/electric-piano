@@ -1,3 +1,4 @@
 *.obj
 *.hex
+Cargo.lock
 target/
