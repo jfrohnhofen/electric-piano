@@ -1,0 +1,7 @@
+[package]
+name = "sysexprog"
+version = "0.1.0"
+authors = ["Johannes Frohnhofen <johannes@frohnhofen.com>"]
+
+[dependencies]
+portmidi = "^0.2"
