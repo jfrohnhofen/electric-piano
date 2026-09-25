@@ -2,3 +2,4 @@
 *.hex
 Cargo.lock
 target/
+.direnv/
